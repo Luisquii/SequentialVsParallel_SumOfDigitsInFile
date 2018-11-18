@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) throws IOException{
         long startTime, stopTime;
-        double acum = 0;
+        double ms = 0;
 
         System.out.printf("Starting...\n");
         sumNumsInFile sm = new sumNumsInFile();
@@ -13,9 +13,9 @@ public class Main {
             startTime = System.currentTimeMillis();
             sm.calculate();
             stopTime = System.currentTimeMillis();
-            acum +=(stopTime - startTime);
+            ms +=(stopTime - startTime);
         }
         System.out.printf("Sumatoria: %d\n", sm.getSum());
-        System.out.printf("avg time = %.5f\n", (acum / 10));
+        System.out.printf("avg time = %.5f\n", (ms / 10));
     }
 }
