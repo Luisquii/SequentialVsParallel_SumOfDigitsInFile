@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1541653128 source:c:\users\luis\desktop\tec\9 semestre\multiprocesadores\proyectofinal\parallel_copenmp_sumnum\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cheader.h"
+	<omp.h>
+
+1539555821 c:\users\luis\desktop\tec\9 semestre\multiprocesadores\proyectofinal\parallel_copenmp_sumnum\cheader.h
+	<stdlib.h>
+	<time.h>
+	<sys/time.h>
+	<sys/types.h>
+
+1541653128 source:c:\users\luis\desktop\tec\9 semestre\multiprocesadores\proyectofinal\sequentialvsparallel_sumofdigitsinfile\parallel_copenmp_sumnum\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cheader.h"
+	<omp.h>
+
+1539555821 c:\users\luis\desktop\tec\9 semestre\multiprocesadores\proyectofinal\sequentialvsparallel_sumofdigitsinfile\parallel_copenmp_sumnum\cheader.h
+	<stdlib.h>
+	<time.h>
+	<sys/time.h>
+	<sys/types.h>
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1542332260 source:c:\users\luis\desktop\tec\9 semestre\multiprocesadores\proyectofinal\serial_c_sumnum\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cheader.h"
+
+1539555821 c:\users\luis\desktop\tec\9 semestre\multiprocesadores\proyectofinal\serial_c_sumnum\cheader.h
+	<stdlib.h>
+	<time.h>
+	<sys/time.h>
+	<sys/types.h>
+
+1542332260 source:c:\users\luis\desktop\tec\9 semestre\multiprocesadores\proyectofinal\sequentialvsparallel_sumofdigitsinfile\serial_c_sumnum\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cheader.h"
+
+1539555821 c:\users\luis\desktop\tec\9 semestre\multiprocesadores\proyectofinal\sequentialvsparallel_sumofdigitsinfile\serial_c_sumnum\cheader.h
+	<stdlib.h>
+	<time.h>
+	<sys/time.h>
+	<sys/types.h>
+

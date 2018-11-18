@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1542523965 source:c:\users\luis\desktop\tec\9 semestre\multiprocesadores\proyectofinal\serial_cpp_sumnum\main.cpp
+	<iostream>
+	<fstream>
+	"cppheader.h"
+
+1536277674 c:\users\luis\desktop\tec\9 semestre\multiprocesadores\proyectofinal\serial_cpp_sumnum\cppheader.h
+	<ctime>
+	<cstdio>
+	<cstdlib>
+	<sys/time.h>
+	<sys/types.h>
+
+1542523965 source:c:\users\luis\desktop\tec\9 semestre\multiprocesadores\proyectofinal\sequentialvsparallel_sumofdigitsinfile\serial_cpp_sumnum\main.cpp
+	<iostream>
+	<fstream>
+	"cppheader.h"
+
+1536277674 c:\users\luis\desktop\tec\9 semestre\multiprocesadores\proyectofinal\sequentialvsparallel_sumofdigitsinfile\serial_cpp_sumnum\cppheader.h
+	<ctime>
+	<cstdio>
+	<cstdlib>
+	<sys/time.h>
+	<sys/types.h>
+
