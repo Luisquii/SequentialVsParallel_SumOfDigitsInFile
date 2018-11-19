@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8b26854-5830-43c7-96bc-09ff0bae5709" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Parallel_JavaForkJoin_SumNum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parallel_JavaForkJoin_SumNum/src/com/company/sumNumsInFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Parallel_JavaThreads_SumNum/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Parallel_JavaThreads_SumNum/com/company/sumNumsInFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/sumNumsInFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/sumNumsInFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Serial_Java_SumNum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Serial_Java_SumNum/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Serial_Java_SumNum/out/production/Serial_Java_SumNum/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Serial_Java_SumNum/out/production/Serial_Java_SumNum/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Serial_Java_SumNum/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Serial_Java_SumNum/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,9 +37,10 @@
     <session id="1434242632">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -70,26 +67,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+            <state relative-caret-position="306">
+              <caret line="18" column="54" lean-forward="true" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/sumNumsInFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#168#169#0" expanded="true" />
                 <element signature="e#194#195#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -115,48 +112,21 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Parallel_JavaThreads_SumNum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Parallel_JavaThreads_SumNum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Parallel_JavaThreads_SumNum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Parallel_JavaThreads_SumNum" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Parallel_JavaThreads_SumNum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Parallel_JavaThreads_SumNum" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542533594783" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542597558379" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Serial_Java_SumNum" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -201,7 +171,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25745684" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -213,7 +183,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30307692" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3023001" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -236,24 +206,24 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/sumNumsInFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#168#169#0" expanded="true" />
             <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="54" lean-forward="true" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
         </state>
       </provider>
     </entry>
